@@ -9,3 +9,16 @@
 #pink{
     background-color: pink;
 }
+
+span{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black; 
+    border-bottom: 4px solid gray;
+}
+
+#border{
+    border: 10px lightgreen;
+    border-style: ridge;
+    margin: 5px;
+}
